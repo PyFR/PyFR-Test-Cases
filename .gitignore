@@ -1,0 +1,18 @@
+# PyFR mesh and solution files
+*.pyfrs
+*.pyfrm
+
+# VTU files
+*.vtu
+
+# CSV files
+*.csv
+
+# Mac OS X junk
+.DS_Store
+
+# Backup files
+*~
+
+# Hidden files
+.*
